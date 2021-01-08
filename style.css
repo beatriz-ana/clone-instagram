@@ -154,11 +154,11 @@ input {
 }
 
 .app-download:nth-child(1) {
-    background-image: url(./appstore.png);
+    background-image: url(./imagens/appstore.png);
 }
 
 .app-download:nth-child(2) {
-    background-image: url(./googleplay.png);
+    background-image: url(./imagens/googleplay.png);
 }
 
 .footer{
